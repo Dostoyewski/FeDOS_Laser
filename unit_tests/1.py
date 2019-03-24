@@ -1,0 +1,1 @@
+print(b's'.decode('UTF-8'))
